@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\C#\exam2week2C#\bin\Debug\net10.0\exam2week2C#.exe
+C:\Users\USER\Desktop\C#\exam2week2C#\bin\Debug\net10.0\exam2week2C#.deps.json
+C:\Users\USER\Desktop\C#\exam2week2C#\bin\Debug\net10.0\exam2week2C#.runtimeconfig.json
+C:\Users\USER\Desktop\C#\exam2week2C#\bin\Debug\net10.0\exam2week2C#.dll
+C:\Users\USER\Desktop\C#\exam2week2C#\bin\Debug\net10.0\exam2week2C#.pdb
+C:\Users\USER\Desktop\C#\exam2week2C#\obj\Debug\net10.0\exam2week2C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C#\exam2week2C#\obj\Debug\net10.0\exam2week2C#.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C#\exam2week2C#\obj\Debug\net10.0\exam2week2C#.AssemblyInfo.cs
+C:\Users\USER\Desktop\C#\exam2week2C#\obj\Debug\net10.0\exam2week2C#.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C#\exam2week2C#\obj\Debug\net10.0\exam2week2C#.dll
+C:\Users\USER\Desktop\C#\exam2week2C#\obj\Debug\net10.0\refint\exam2week2C#.dll
+C:\Users\USER\Desktop\C#\exam2week2C#\obj\Debug\net10.0\exam2week2C#.pdb
+C:\Users\USER\Desktop\C#\exam2week2C#\obj\Debug\net10.0\exam2week2C#.genruntimeconfig.cache
+C:\Users\USER\Desktop\C#\exam2week2C#\obj\Debug\net10.0\ref\exam2week2C#.dll
